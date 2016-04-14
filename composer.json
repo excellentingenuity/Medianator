@@ -29,12 +29,12 @@
   },
   "autoload": {
     "psr-4": {
-      "eig\\Medianator\\": "src/Medianator"
+      "eig\\Medianator\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "eig\\Medianator\\Test\\": "src/tests"
+      "eig\\Medianator\\Test\\": "tests"
     }
   },
   "extra": {
